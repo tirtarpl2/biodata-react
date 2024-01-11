@@ -1,0 +1,44 @@
+/* Footer.css */
+
+.footer-container {
+  background-color: #59594f;
+  color: #fff;
+  padding: 1rem 0;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-logo {
+  display: flex;
+  align-items: center;
+}
+
+.footer-logo img {
+  width: 40px; /* Sesuaikan dengan ukuran logo Anda */
+  margin-right: 10px;
+}
+
+.footer-logo span {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.footer-social img {
+  width: 50px; /* Sesuaikan dengan ukuran ikon media sosial Anda */
+  margin-right: 20px;
+  border-radius: 10%;
+}
+
+.footer-bottom {
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.footer-bottom p {
+  margin: 0;
+  font-size: 0.8rem;
+}

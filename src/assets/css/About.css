@@ -1,0 +1,32 @@
+/* About.css */
+
+.about-container {
+  max-width: 88%;
+  margin: 2rem auto;
+  padding: 2rem;
+  background-color: #a3a183;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.about-content {
+  text-align: center;
+}
+
+.about-content h1 {
+  color: #333;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.about-content p {
+  color: white;
+  font-size: 1.2rem;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+/* Animasi menggunakan react-spring */
+.about-container {
+  will-change: opacity, transform;
+}
