@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/biodata-react/static/css/main.cc1f66a2.css",
+    "main.js": "/biodata-react/static/js/main.df924c07.js",
+    "static/js/787.de557db1.chunk.js": "/biodata-react/static/js/787.de557db1.chunk.js",
+    "static/media/Instagram_Logo.jpg": "/biodata-react/static/media/Instagram_Logo.b9b29a027caebe5be624.jpg",
+    "static/media/WhatsApp_Logo.jpg": "/biodata-react/static/media/WhatsApp_Logo.eea352984983afaa5c0d.jpg",
+    "static/media/Facebook_Logo.jpg": "/biodata-react/static/media/Facebook_Logo.09d07d2452193e72c5e1.jpg",
+    "static/media/Profil.jpeg": "/biodata-react/static/media/Profil.1ae20169cadfb01e5d2b.jpeg",
+    "index.html": "/biodata-react/index.html",
+    "main.cc1f66a2.css.map": "/biodata-react/static/css/main.cc1f66a2.css.map",
+    "main.df924c07.js.map": "/biodata-react/static/js/main.df924c07.js.map",
+    "787.de557db1.chunk.js.map": "/biodata-react/static/js/787.de557db1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc1f66a2.css",
+    "static/js/main.df924c07.js"
+  ]
+}
